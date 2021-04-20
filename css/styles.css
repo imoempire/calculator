@@ -1,0 +1,31 @@
+.navbar-home {
+    background-color: #a94442;
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-home .navbar-nav > li > a {
+    color: white;}
+.navbar-default .navbar-brand {
+    color: white;
+    font-weight: bold;
+    }    
+   
+    .carousel-inner {
+        height: 550px;}
+
+    .about-pizza{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+
+    .pizza-types{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    
+    .footer { 
+        background-color: #a94442;  
+        color: white; padding: 3px 0px;}
+        
+    

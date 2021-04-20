@@ -1,0 +1,17 @@
+* { box-sizing: border-box;}
+
+.bar {background-color: gray;
+text-align: end; height: 20%;}
+
+.signs { background-color: orangered; 
+         text-align: center;
+         border: 0.2px solid rgb(83, 81, 81); 
+         border-right: none; }
+
+.number{ background-color: rgb(226, 221, 221);
+         border: 0.2px solid rgb(139, 139, 139);
+         border-left: none;
+        text-align: center;}
+
+
+.row div { height: 100%;}
